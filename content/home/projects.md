@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Projects & Research
 subtitle: ''
 
 content:
@@ -27,10 +27,16 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Robot Learning
+    tag: Robot Learning
+  - name: Computer Vision
+    tag: Computer Vision
   - name: Deep Learning
     tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Research
+    tag: Research
+  - name: Startup
+    tag: Startup
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -41,8 +47,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---

@@ -1,47 +1,47 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
-avatar_filename: profile-pic-4-.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Charles Nimo
+role: Computer Science
+avatar_filename: avatar
+bio: I am broadly interested in machine learning, human-computer interaction, and mobile computing.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Human-Computer Interaction
+  - Mobile Computing
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:nimo@utexas.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/charlesnimo/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/princenimo
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCHITkH4AzxGocv_SdaZso0Q
+- icon: cv
+  icon_pack: ai
+  link: "files/CV.pdf"
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Texas at Austin
+    url: https://www.utexas.edu/
 education:
   courses:
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master's of Science in Computer Science
+      institution: The University of Texas at Austin
+      year: 2023
+    - course: Bachelor's of Science in Electrical and Computer Engineering
+      institution: Virginia Commonwealth University
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, my name is Charles and I am currently a graduate computer science student at The University of Texas at Austin with interests in Machine Learning and HCI.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm currently involved in a  start up, and have worked and interned as a software engineer at Intel and Dell. Click the link below to learn more about what I've worked on -- Take a look around and if you find something that interests you, feel free to reach out!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/public_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

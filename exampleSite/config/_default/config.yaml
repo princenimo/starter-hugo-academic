@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Charles Nimo # Website name
-baseurl: 'https://academic-demo.netlify.app/' # Website URL
+baseurl: 'https://charlesnimo.me/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
