@@ -6,7 +6,7 @@ bio: I am broadly interested in machine learning, human-computer interaction, an
 interests:
   - Machine Learning
   - Human-Computer Interaction
-  - Mobile Computing
+  - Computer Vision 
 social:
 - icon: envelope
   icon_pack: fas

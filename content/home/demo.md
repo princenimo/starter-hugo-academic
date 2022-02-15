@@ -20,4 +20,4 @@ cta:
 
 #### *Software Developer | Graduate Student | Founder*
 
-###### "The world is not ours to keep. We hold it in trust for future generations" - Kofi Annan
+###### "Be the change you want to see in the world!" 
