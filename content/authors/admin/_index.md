@@ -2,7 +2,7 @@
 title: Charles Nimo
 role: Computer Science
 avatar_filename: avatar
-bio: I am broadly interested in machine learning, Trustworthy AI, and mobile computing.
+bio: I am broadly interested in machine learning, trustworthy AI, and computer vision.
 interests:
   - Machine Learning
   - Trustworthy AI
