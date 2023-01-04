@@ -2,10 +2,10 @@
 title: Charles Nimo
 role: Computer Science
 avatar_filename: avatar
-bio: I am broadly interested in machine learning, human-computer interaction, and mobile computing.
+bio: I am broadly interested in machine learning, Trustworthy AI, and mobile computing.
 interests:
   - Machine Learning
-  - Human-Computer Interaction
+  - Trustworthy AI
   - Computer Vision 
 social:
 - icon: envelope
@@ -39,9 +39,11 @@ superuser: true
 highlight_name: true
 ---
 
-Hi, my name is Charles and I am currently a graduate computer science student at The University of Texas at Austin with interests in Machine Learning and HCI.
+Hi, my name is Charles and I am currently a graduate computer science student at The University of Texas at Austin with interests in Machine Learning, Computer Vision, and Trustworthy AI.
 
-I'm currently involved in a  start up, and have worked and interned as a software engineer at Intel and Dell. Click the link below to learn more about what I've worked on -- Take a look around and if you find something that interests you, feel free to reach out!
+I am a member of the AI Health Lab @ UT Austin, directed by Prof. Ying Ding. My current research is focused on developing and applying machine learning techniques for medical problems.
+
+Prior to my graduate studies, I have been involved in a start up, and have worked and interned as a software engineer at Intel and Dell. Click the link below to learn more about what I've worked on -- Take a look around and if you find something that interests you, feel free to reach out!
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
