@@ -41,7 +41,12 @@ highlight_name: true
 
 Hi, my name is Charles and I am currently a graduate computer science student at The University of Texas at Austin with interests in Machine Learning, Computer Vision, and Trustworthy AI.
 
-I am a member of the AI Health Lab @ UT Austin, directed by Prof. Ying Ding. My current research is focused on developing and applying machine learning techniques for medical problems.
+
+
+
+I am a member of the 
+{{< staticref "https://aihealth.ischool.utexas.edu/" "newtab" >}}AI Health Lab @ UT Austin{{< /staticref >}}, directed by {{< staticref "https://yingding.ischool.utexas.edu/" "newtab" >}}Prof. Ying Ding{{< /staticref >}}. 
+My current research is focused on developing and applying machine learning techniques for medical problems.
 
 Prior to my graduate studies, I have been involved in a start up, and have worked and interned as a software engineer at Intel and Dell. Click the link below to learn more about what I've worked on -- Take a look around and if you find something that interests you, feel free to reach out!
 

@@ -39,7 +39,7 @@ experience:
     company_url: "https://graduhit.com/"
     company_logo: graduhit
     date_start: "2020-05-01"
-    date_end: ""
+    date_end: "2021-07-01"
     description: I am a co-founder of Graduhit, an AI-powered web application that leverages a recommender system that helps students discover personalized career matches based on user’s cultural fit, preferences, interpersonal characteristics, and resume.
 
   - title: Software Engineer II
