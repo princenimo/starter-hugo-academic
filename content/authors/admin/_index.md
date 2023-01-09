@@ -25,7 +25,7 @@ social:
   link: "files/CV.pdf"
 organizations:
   - name: The University of Texas at Austin
-    url: https://www.utexas.edu/
+    url: https://www.cs.utexas.edu/
 education:
   courses:
     - course: Master's of Science in Computer Science
