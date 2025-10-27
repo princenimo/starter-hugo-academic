@@ -18,6 +18,6 @@ cta:
 
 <br>
 
-#### *Software Developer | Graduate Student | Founder*
+#### *Ph.D. Student in Computer Science at Georgia Tech*
 
 ###### "Be the change you want to see in the world!" 
