@@ -23,7 +23,7 @@ subtitle: ""
 
 - <span style="background:#1565C0;color:#fff;padding:2px 6px;border-radius:4px;font-size:0.8em;">ACL 2025</span>    
   **AfriMed-QA: A Pan-African, Multi-Specialty, Medical Question-Answering Benchmark Dataset**  
-  *Tobi Olatunji**, *<span style="color:#1565C0; font-weight:700;">Charles Nimo**</span>, *Abraham T. Owodunni*<sup>∗</sup>, Tassallah Abdullahi, Emmanuel Ayodele, Mardhiyah Sanni, Ezinwanne C. Aka, Folafunmi Omofoye, Foutse Yuehgoh, Timothy Faniran, Bonaventure F. P. Dossou, Moshood O. Yekini, Jonas Kemp, Katherine A. Heller, Jude C. Omeke, Chidi Asuzu, Naome A. Etori, Aïmérou Ndiaye, Ifeoma Okoh, Evans D. Ocansey, Wendy Kinara, Michael L. Best, Irfan Essa, Stephen E. Moore, Chris Fourie, Mercy N. Asiedu*  
+  *Tobi Olatunji**, *<span style="color:#1565C0; font-weight:700;">Charles Nimo**</span>, *Abraham T. Owodunni*<sup>∗</sup>, Tassallah Abdullahi, Emmanuel Ayodele, Mardhiyah Sanni, Ezinwanne C. Aka, Folafunmi Omofoye, Foutse Yuehgoh, Timothy Faniran, Bonaventure F. P. Dossou, Moshood O. Yekini, Jonas Kemp, Katherine A. Heller, Jude C. Omeke, Chidi Asuzu, Naome A. Etori, Aïmérou Ndiaye, Ifeoma Okoh, Evans D. Ocansey, Wendy Kinara, Michael L. Best, Irfan Essa, Stephen E. Moore, Chris Fourie, Mercy N. Asiedu  
   *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)* · Vienna, Austria  
   🥇 **Best Social Impact Paper Award**  
   <sub><sup>∗</sup>Co-first authors</sub>  
